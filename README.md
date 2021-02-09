@@ -10,4 +10,4 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1605|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) |[python]|easy|
+|1605|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) |[python](./algorithms/invert-binary-tree.py)|easy|
